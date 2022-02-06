@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently learning about AS and BGP.
+* 🔭 I’m currently learning about AS and BGP.
 
 -->
